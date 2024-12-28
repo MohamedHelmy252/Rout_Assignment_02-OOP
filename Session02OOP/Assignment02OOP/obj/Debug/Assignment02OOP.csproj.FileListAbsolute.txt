@@ -1,0 +1,7 @@
+E:\vs c#\Session02OOP\Assignment02OOP\obj\Debug\Assignment02OOP.csproj.AssemblyReference.cache
+E:\vs c#\Session02OOP\Assignment02OOP\obj\Debug\Assignment02OOP.csproj.CoreCompileInputs.cache
+E:\vs c#\Session02OOP\Assignment02OOP\bin\Debug\Assignment02OOP.exe.config
+E:\vs c#\Session02OOP\Assignment02OOP\bin\Debug\Assignment02OOP.exe
+E:\vs c#\Session02OOP\Assignment02OOP\bin\Debug\Assignment02OOP.pdb
+E:\vs c#\Session02OOP\Assignment02OOP\obj\Debug\Assignment02OOP.exe
+E:\vs c#\Session02OOP\Assignment02OOP\obj\Debug\Assignment02OOP.pdb

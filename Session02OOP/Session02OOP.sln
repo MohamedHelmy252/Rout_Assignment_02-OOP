@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session02OOP", "Session02OOP\Session02OOP.csproj", "{56577814-72D5-436B-A72C-C98578083BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment02OOP", "Assignment02OOP\Assignment02OOP.csproj", "{FAAAED26-70FC-4F7A-977D-75E4D01EF7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56577814-72D5-436B-A72C-C98578083BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56577814-72D5-436B-A72C-C98578083BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56577814-72D5-436B-A72C-C98578083BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56577814-72D5-436B-A72C-C98578083BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAAAED26-70FC-4F7A-977D-75E4D01EF7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAAED26-70FC-4F7A-977D-75E4D01EF7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAAED26-70FC-4F7A-977D-75E4D01EF7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAAED26-70FC-4F7A-977D-75E4D01EF7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
